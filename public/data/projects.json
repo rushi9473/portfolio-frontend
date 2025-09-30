@@ -1,0 +1,12 @@
+[
+  {
+    "name": "BankingApp",
+    "description": "Event-driven microservices app with Spring Boot, Kafka, Redis, and Postgres.",
+    "link": "https://github.com/rushi9473/microservice-starter"
+  },
+  {
+    "name": "Portfolio Website",
+    "description": "React + Vite + Tailwind portfolio site showcasing my projects and skills.",
+    "link": "https://github.com/rushi9473/rushi-portfolio"
+  }
+]

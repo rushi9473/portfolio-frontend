@@ -1,0 +1,39 @@
+{
+  "name": "Rushi R Udatha",
+  "title": "Java Full Stack Developer \u2022 Microservices \u2022 Cloud",
+  "summary": "I build scalable and secure distributed systems with Java, Spring Boot, React, and cloud-native architectures.",
+  "links": {
+    "email": "ramudatha124@gmail.com",
+    "phone": "5185562678",
+    "linkedin": "https://www.linkedin.com/in/ramanjanudatha",
+    "github": "https://github.com/rushi9473"
+  },
+  "skills": {
+    "Frontend": [
+      "React.js",
+      "TypeScript",
+      "Redux",
+      "Angular",
+      "Vue.js"
+    ],
+    "Backend": [
+      "Java 17",
+      "Spring Boot 3.x",
+      "Hibernate",
+      "REST APIs",
+      "GraphQL"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ],
+    "Cloud & DevOps": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Jenkins"
+    ]
+  }
+}
