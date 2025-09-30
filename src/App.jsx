@@ -10,11 +10,23 @@ export default function App() {
   const [projects, setProjects] = useState([])
 
   useEffect(() => {
-    fetch('/data/resume.json').then(r => r.json()).then(setResume)
-    fetch('/data/projects.json').then(r => r.json()).then(setProjects)
+    // Use Vite's BASE_URL to handle both local and GitHub Pages paths
+    const base = import.meta.env.BASE_URL
+
+    fetch(base + 'data/resume.json')
+      .then((r) => r.json())
+      .then(setResume)
+      .catch((err) => console.error('Failed to load resume.json:', err))
+
+    fetch(base + 'data/projects.json')
+      .then((r) => r.json())
+      .then(setProjects)
+      .catch((err) => console.error('Failed to load projects.json:', err))
   }, [])
 
-  if (!resume) return <div className="text-center p-10">Loading...</div>
+  if (!resume) {
+    return <div className="text-center p-10">Loading...</div>
+  }
 
   return (
     <div>
