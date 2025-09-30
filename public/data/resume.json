@@ -1,7 +1,18 @@
 {
   "name": "Rushi R Udatha",
   "title": "Java Full Stack Developer \u2022 Microservices \u2022 Cloud",
-  "summary": "I build scalable and secure distributed systems with Java, Spring Boot, React, and cloud-native architectures.",
+  "summary": "Java Full Stack Developer with extensive experience designing, developing and deploying robust, scalable and secure applications in fast-paced Agile environments. 
+Proven expertise in building high-performance systems for the financial and insurance sectors, specializing in end-to-end software development life cycles from architectural design to deployment and monitoring. 
+Adept at leveraging modern technologies to deliver impactful solutions that enhance user experience, optimize system performance and ensure regulatory compliance.
+Proficient in Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate and RESTful and GraphQL API development.
+Skilled in front-end technologies including React.js, TypeScript, Redux Toolkit, Tailwind CSS, Angular, RxJS, Bootstrap, CSS3 Flexbox and SCSS.
+Experienced with database management systems such as PostgreSQL, MongoDB, Redis and PL/SQL, including schema design and optimization with Liquibase.
+Adept at implementing CI/CD pipelines using Azure DevOps, Docker, Kubernetes, Terraform and Jenkins, enabling blue-green deployments.
+Proficient in real-time data processing and messaging with Apache Kafka and FIX protocol.
+Strong command of testing frameworks like JUnit and Mockito with experience in TDD and code coverage analysis using JaCoCo.
+Competent in security best practices including OAuth2, JWT and OWASP principles, utilizing tools like SonarQube.
+Experienced with logging and monitoring solutions including ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus and Grafana.
+Familiar with Agile/Scrum methodologies, JIRA and clean code principles including SOLID and design patterns.",
   "links": {
     "email": "ramudatha124@gmail.com",
     "phone": "5185562678",
